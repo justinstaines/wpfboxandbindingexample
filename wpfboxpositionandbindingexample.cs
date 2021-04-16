@@ -16,7 +16,7 @@ using Xceed.Wpf.AvalonDock.Layout;
 using System.IO;
 using System.Net.Http;
 
-namespace la800ux120421
+namespace wpfboxpositionexample
 {
     /// <summary>
     /// (C) Copyright 2021 Justin Staines
